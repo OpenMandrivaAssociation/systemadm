@@ -1,7 +1,7 @@
 Summary:	System and Service Manager UI for systemd
 Name:		systemadm
 Version:	0
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		System/Configuration/Boot and Init
 URL:		http://www.freedesktop.org/wiki/Software/systemd
@@ -16,6 +16,7 @@ BuildRequires:	pkgconfig(gtk+-2.0)
 BuildRequires:	pkgconfig(libnotify)
 BuildRequires:	vala >= 0.11
 BuildRequires:	xsltproc
+%rename systemd-gtk
 
 %description
 systemadm is a graphical frontend for the systemd system and service manager
