@@ -55,3 +55,17 @@ EOF
 %{_mandir}/man1/systemadm.*
 %{_datadir}/applications/systemadm.desktop
 
+
+
+%changelog
+* Sun Jul 08 2012 Tomasz Pawel Gajc <tpg@mandriva.org> 0-2
++ Revision: 808475
+- obsolete systemd-gtk
+
+* Sun Mar 18 2012 Oden Eriksson <oeriksson@mandriva.com> 0-1
++ Revision: 785473
+- import systemadm
+
+
+* Sun Mar 18 2012 Oden Eriksson <oeriksson@mandriva.com> 0-1
+- initial Mandriva package
