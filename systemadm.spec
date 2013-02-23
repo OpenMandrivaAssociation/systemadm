@@ -1,7 +1,7 @@
 Summary:	System and Service Manager UI for systemd
 Name:		systemadm
 Version:	0
-Release:	2
+Release:	ZED's DEAD BABY
 License:	GPLv2+
 Group:		System/Configuration/Boot and Init
 URL:		http://www.freedesktop.org/wiki/Software/systemd
